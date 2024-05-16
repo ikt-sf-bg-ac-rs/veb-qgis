@@ -1,0 +1,1 @@
+var json_koordinate_SF_1 = {"type":"FeatureCollection","name":"koordinate_SF_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Lokacija":"Saobraćajni fakultet","Geografska širina":44.76592,"Geografska dužina":20.48267},"geometry":{"type":"Point","coordinates":[20.48267,44.765919]}}]}
